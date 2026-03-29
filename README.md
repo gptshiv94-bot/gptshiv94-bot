@@ -51,8 +51,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-ff1493?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shivali-gupta-7245b9353/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="gptshiv94@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff1493?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
